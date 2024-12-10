@@ -24,9 +24,15 @@ Using Machine Learning algorithms makes it easy to segment your customers accord
 2.Approx 54% of Cluster 1 shoppers are females. We should look these customers to attract and made them purchase more by doing marketing campaings and targeting popular items for these customers.
 
 3.Cluster 2 is a great opportunity to market them to the customers for sales event on popular items.
+
 The data has nearly gaussian distribution.
+
 Customers with low annual income have relatively low spending scores.
+
 Customers with fair enough income spend the most.
+
 Females spending score is more than males but the difference is not too significant.
+
 People of smaller ages spend less.
+
 Average age of cutomers is between 30 to 40 years.
