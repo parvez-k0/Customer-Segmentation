@@ -19,11 +19,11 @@ Using Machine Learning algorithms makes it easy to segment your customers accord
 
 ## Results derived from Visualizations:
 
-1.Target group will be Cluster 1 which has Highest spending score and high annual Income
+1.  Target group will be **Cluster 1** which has **Highest spending score and high annual Income**.
 
-2.Approx 54% of Cluster 1 shoppers are females. We should look these customers to attract and made them purchase more by doing marketing campaings and targeting popular items for these customers.
+2.  Approx **54% of Cluster 1** shoppers are **females**. We should look these customers to attract and made them purchase more by doing marketing campaings and targeting popular items for these customers.
 
-3.Cluster 2 is a great opportunity to market them to the customers for sales event on popular items.
+3.  **Cluster 2** is a great opportunity to market them to the customers for sales event on popular items.
 
 The data has nearly gaussian distribution.
 
